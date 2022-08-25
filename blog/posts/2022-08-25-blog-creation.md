@@ -2,7 +2,7 @@
 title: Blog creation
 date: 2022-08-25
 ---
-Today I created a blog and it has been a bit more challenging that I anticipated.  I intend to add some pictures in time so stay tooned.  
+Today has been a busy one.  For starters, I created this blog and it has been a bit more challenging that I anticipated.  Along the way I learned more about merging files and what can happen if you create commits on your main, rather than creating them on the feature branch and merging.  I intend to add some pictures in time so stay tuned.  
 
 Some other things that I learned include the following:
 - How to initiate a pull request on GitHub.  This feature allows teams to work together and discuss changes without worrying about overwriting someone else's work.
