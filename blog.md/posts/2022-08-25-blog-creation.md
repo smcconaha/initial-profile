@@ -2,7 +2,7 @@
 title: Blog creation
 date: 2022-08-25
 ---
-Today I created a blog as well as this post.  Learning GitHub has been very challenging.
+Today I created a blog and it has been a bit more challenging that I anticipated.  I intend to add some pictures in time so stay tooned.  
 
 Some other things that I learned include the following:
 - How to initiate a pull request on GitHub.  This feature allows teams to work together and discuss changes without worrying about overwriting someone else's work.
