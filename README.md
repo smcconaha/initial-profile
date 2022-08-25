@@ -1,2 +1,3 @@
 # smcconaha.github.io
-This daily blog was created on 2022-08-25.  
+# Welcome to my blog!  
+## I hope you enjoy learning about my coding journey as much as I enjoyed writing about it 😃 
