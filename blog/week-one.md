@@ -1,10 +1,9 @@
----
-title: Blog creation
-date: 2022-08-25
----
+***Title***: Blog creation
+***Date***: 2022-08-25
+
 ## Was your first week what you expected?  Why?  Why not?
 > I came into the first week expecting the course load to be challenging; however, I did not anticipate needing so much time to learn the tools like GitHub and GitPod.  I realize that I can be a slow learner, especially if the subject is brand new, so this really isn't that surprising.
-
+>
 > These are a few of the interesting things I learned about today:
 > - How to initiate a pull request on GitHub.  This feature allows teams to work together and discuss changes without worrying about overwriting someone else's work.
 > - How the release based workflow operates.  This is used to package and provide software to users at a particular point in time.  The directions seemed a bit rushed for this part of the lesson and I would like to research this further.
