@@ -18,4 +18,4 @@ I am eager to learn more about command line interface (CLI).  I have played arou
 ## What is something about you that can only be learned by reading this blog?
 I have a lot of hobbies and interests which makes it hard to narrow down the list but here goes.  I enjoy experimenting with different types of art as well as drawing and painting.  I took up wood carving roughly two years ago and have included pictures of one of my wood spirit carvings.  From time to time I also like to pick up figurines from Goodwill and paint them to look like zombies.  The picture below was my first attempt.
 
-
+![Painting image](smcconaha.github.io/img/figure_before.jpg)
