@@ -1,5 +1,7 @@
 ***Title***: Week Two
 ***Date***: 2022-09-02
+|[Blog Home](../index.md)|
+|------------------------|
 
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 > For now I would really like to be able to create a nice looking website from scratch.  I know I can make something now but it isn't visually appealing.  There are so many components and currently I don't have "the eye" or possess the abilities to create something stylish.  However, I am hopeful that I can develope those skills in time.
