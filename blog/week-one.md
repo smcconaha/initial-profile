@@ -1,4 +1,4 @@
-***Title***: Blog creation
+***Title***: Week One
 ***Date***: 2022-08-25
 
 ## Was your first week what you expected?  Why?  Why not?
