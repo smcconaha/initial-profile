@@ -1,8 +1,7 @@
 ***Title***: Week One
 ***Date***: 2022-08-25  
 
-|[Blog Home](../index.md)|
-|------------------------|  
+[Blog Home](../index.md)
  
 ## Was your first week what you expected?  Why?  Why not?
 > I came into the first week expecting the course load to be challenging; however, I did not anticipate needing so much time to learn the tools like GitHub and GitPod.  I realize that I can be a slow learner, especially if the subject is brand new, so this really isn't that surprising.
