@@ -11,5 +11,14 @@
 ## What are some objects that your blog incorporates?
 > I would consider the header and body of each blog to be individual objects or on a larger scale, the pages (i.e., index, weekone, weektwo, and this file).  I can imagine writing script for these items in order to add depth.
 >
+>I suppose I could also think in terms of some of subjects like, my favorite things.  So an example would be:
+``
+const myFavoriteThings = {
+  coffeeShops: ['Brevede', 'Manchester Coffee Company'],
+  hobbies: ['wood carving', 'painting', 'rebuilding lanters', 'hiking', 'making coffee'],
+  weatherType: 'rain'
+};
+``
+>
 ## What are your thoughts on pseudocoding?
 > I used to wondered how someone could convert an idea or even a customer requirement into code.  It always seemed like such an intimidating process, but now I can see a little more clearly with pseudocode.  I can see value in the process and look forward to learning better techniques.
