@@ -8,3 +8,4 @@
 | 1              |[Week One](blog/week-one.md)    |
 | 2              |[Week Two](blog/week-two.md)    |
 | 3              |[Week Three](blog/week-three.md)|
+| 4              |[Week Three](blog/week-four.md) |
