@@ -1,7 +1,13 @@
-# Blog Teaser
-![Blog Teaser](/img/blog_post_teaser.jpg)
+
+# Blog Teaser Revised
+![Blog Teaser Revised](/img/blog_post_teaser_rev.jpg)
 
 ---  
 
-# Blog Post Teaser
-![Blog Teaser](/img/blog_post.jpg)
+# Blog Post
+![Blog Post](/img/blog_post.jpg)
+
+---
+
+# Blog Teaser Original
+![Blog Teaser Original](/img/blog_post_teaser.jpg)
