@@ -1,20 +1,29 @@
-body, html {
+/* body, html {
     height: 100%;
 }
-.bg {
-    background-image: url("./../img/profile.jpg");
+.home {
+    background-image: url("./../img/backgroundImg.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.bd-placeholder-img {
+.home-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+} */
+
+
+html, body {
+    background: url("../img/backgroundImg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 @media (min-width: 768px) {
